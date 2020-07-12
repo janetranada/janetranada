@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Janet 👋
+
+I'm a Junior Full Stack Developer with a Bachelor's Degree in Mathematics.
+
+I entered the world of Full Stack Development through a bootcamp program provided by Israel Tech Challenge (ITC) in Tel Aviv, Israel. I continue to learn and enhance my skills by going through code challenges and taking up additional courses in Udemy.
 
 <!--
 **janetranada/janetranada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
